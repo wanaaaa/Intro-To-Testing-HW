@@ -21,7 +21,7 @@ This assignment will test your understanding of creating test cases and user sto
 
 - Select an app you use (e.g. Facebook)
 - Choose three features of the app to write test cases for
-- Create six conditionals per test case - all of the conditions must be true in order for the feature to be considered "implemented" (see the example in the [lesson](https://github.com/ga-adi/adi-gelato/tree/master/curriculum/04-schedule-and-supplies/week-04/baseline-materials/testing-intro-lesson))
+- Create six conditionals per test case - all of the conditions must be true in order for the feature to be considered "implemented" (see the example in the [lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/testing/testing-intro-lesson))
 - Create user stories for each conditional
 
 **Bonus:**
