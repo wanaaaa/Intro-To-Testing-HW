@@ -1,6 +1,6 @@
 ---
 title: Intro to Testing HW
-type: lab
+type: homework
 duration: "1:00"
 creator:
     name: Drew Mahrt
@@ -13,7 +13,7 @@ creator:
 
 > ***Note:*** _This should be done independently._
 
-This lab will test your understanding of creating test cases and user stories. You will choose your favorite app, and write at least three test cases to evaluate its features. There should be at least six conditionals per test case. Additionally, you will be writing user stories for each conditional.
+This assignment will test your understanding of creating test cases and user stories. You will choose your favorite app, and write at least three test cases to evaluate its features. There should be at least six conditionals per test case. Additionally, you will be writing user stories for each conditional.
 
 ## Exercise
 
