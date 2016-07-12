@@ -1,0 +1,53 @@
+Select an app you use (e.g. Facebook)
+- LinkedIn
+
+Choose three features of the app to write test cases for
+- login, posting, sending message
+
+Create six conditionals per test case - all of the conditions must be true in order for the feature to be considered "implemented" (see the example in the lesson)
+- login
+1. sign as a guest, 
+2.login as a premium memgber, 
+3.logout, 
+4. login automatically after use, 
+5. log out automatically if no use after certain time
+
+- posting
+1. posting image
+2. posting text
+3. posting their career
+4. abstract career
+5. layout
+6. posting voice
+
+- message
+1. sending message to themselves
+2. automatic message
+3. send to other person
+4. premimimum message
+5. voice message
+6. multiple message
+
+Create user stories for each conditional
+- login
+1. As a user I can log in as a guest
+2. As a user I can log in as a premium user
+3. AS a user I can logout successfully
+4. After log out, I can log in without sigin in again
+5. after no use of some time, it logout automatically
+
+- posting
+1. I can post my image
+2. I can post my text
+3. I can post my carreer.
+4. The app automatically organize the abstract view from career
+5. I can move layout.
+6. I can post my voice.
+
+- message
+1. I can send message to myself
+2. I can send message to some others.
+3. I can send message to multiple person in same time.
+4. I can send more than 200 words as a premimum user.
+5. I can send voice message
+6. I can send message automatically.
